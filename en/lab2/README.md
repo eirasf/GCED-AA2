@@ -1,9 +1,9 @@
-# GCED-AAII - Práctica 1 - Redes neuronales desde cero con TensorFlow
+# GCED-AAII - Lab 1 - Neural networks from scratch with PyTorch
 
-En esta práctica se desarrollará y entrenará un modelo basado en una red neuronal feed-forward de dos maneras distintas: primero utilizando NumPy y, posteriormente, utilizando TensorFlow.
+In this lab we will develop and train a model based on a feed-forward neural network in two different ways: first using NumPy and, later, using PyTorch.
 
-## Objetivos
- - Conocer la arquitectura una red neuronal feed-forward
- - Aprender el esquema general del algoritmo de aprendizaje que se utiliza para ajustar un modelo a un conjunto de datos.
- - Comprender la complejidad que entraña la implementación de dicho proceso de aprendizaje.
- - Valorar las prestaciones que ofrece TensorFlow para automatizar el diseño de procesos de optimización de parámetros.
+## Objectives
+ - To understand the architecture of a feed-forward neural network
+ - To learn the general scheme of the learning algorithm that is used to fit a model to a dataset.
+ - To understand the complexity involved in the implementation of this learning process.
+ - To appreciate the benefits that frameworks such as PyTorch offer to automate the design of parameter optimization processes.
